@@ -1,0 +1,6 @@
+Ram
+Camel
+Cow
+Goat
+Dog
+Cat

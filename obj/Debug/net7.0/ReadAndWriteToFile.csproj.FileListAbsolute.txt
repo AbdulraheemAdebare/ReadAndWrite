@@ -1,0 +1,14 @@
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\bin\Debug\net7.0\ReadAndWriteToFile.exe
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\bin\Debug\net7.0\ReadAndWriteToFile.deps.json
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\bin\Debug\net7.0\ReadAndWriteToFile.runtimeconfig.json
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\bin\Debug\net7.0\ReadAndWriteToFile.dll
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\bin\Debug\net7.0\ReadAndWriteToFile.pdb
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.AssemblyInfoInputs.cache
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.AssemblyInfo.cs
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.dll
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\refint\ReadAndWriteToFile.dll
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.pdb
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ReadAndWriteToFile.genruntimeconfig.cache
+C:\Users\user\desktop\mycsharpproject\ReadAndWriteToFile\obj\Debug\net7.0\ref\ReadAndWriteToFile.dll
